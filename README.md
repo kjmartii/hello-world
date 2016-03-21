@@ -1,2 +1,2 @@
 # hello-world
-First repository.
+Hey everone, Goku here!
